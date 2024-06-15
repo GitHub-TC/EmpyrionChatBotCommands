@@ -43,8 +43,3 @@ Without the EWA the mod works only within the EmpyrionModHost
 
 ## Configuration
 In the configuration file of the mod in the savegame directory, various timeouts can be set and which players have entered "home structures", for example
-
-Translated with DeepL.com (free version)
-## Usage
-Allows a simple answer to a chat input. It is first searched for a whole match and then
-after a "starts with".
